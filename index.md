@@ -16,7 +16,7 @@ DeepLearning技術やバエるものの開発に興味があります！
 - UnityでVR花火
 - ProcessingでGenerative Art
 - DeepLearningで上白石姉妹に色々する
--[Qiita](https://qiita.com/I_Love_idachi)
+- [Qiita](https://qiita.com/I_Love_idachi)
 
 # Contact
 - [Twiiter](https://twitter.com/dsaito11)
