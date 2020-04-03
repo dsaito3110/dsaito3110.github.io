@@ -14,7 +14,7 @@ DeepLearning技術やバエるものの開発に興味があります！
 
 # Works
 - UnityでVR花火
-<img src="https://imgur.com/4pyeZk9" alt="VR花火" title="VR花火">
+[Imgur](https://imgur.com/34ETfgc)
 
 - ProcessingでGenerative Art
 <img src="https://imgur.com/Jr8UpJa" alt="generative art" title="generative art">
